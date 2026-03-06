@@ -1,0 +1,38 @@
+*# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (important)
+.env
+
+# VS Code settings
+.vscode/
+
+# Python version managers
+.python-version
+
+# uv lock files (optional but usually ignored for apps)
+uv.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test / coverage
+.coverage
+htmlcov/
+
+# Build files
+build/
+dist/
+*.egg-info/
